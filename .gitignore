@@ -5,3 +5,4 @@
 .vscode/ipch
 
 /src/secrets.h
+esp32cam_security.code-workspace
