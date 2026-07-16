@@ -1,4 +1,4 @@
-# 📖 Project Documentation: Smart_Camera_System-AI_Thinker
+# 📖 Project Documentation: Smart_Security_Camera-AI_Thinker
 
 **Repository:** [https://github.com/MBayezid/Smart_Camera_System-AI_Thinker](https://github.com/MBayezid/Smart_Camera_System-AI_Thinker)
 
